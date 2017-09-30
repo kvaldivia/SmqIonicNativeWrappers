@@ -1,6 +1,6 @@
 {
   "name": "smq-ionic-native",
-  "version": "0.1.2",
+  "version": "0.0.2",
   "description": "A collection of native wrappers for Ionic Native.",
   "main": " ",
   "scripts": {
