@@ -1,0 +1,31 @@
+{
+  "name": "smq-ionic-native",
+  "version": "0.0.0",
+  "description": "A collection of native wrappers for Ionic Native.",
+  "main": " ",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kvaldivia/SmqIonicNativeWrappers.git"
+  },
+  "keywords": [
+    "Sumaq",
+    "Ionic",
+    "Typescript",
+    "Wrappers",
+    "Cordova"
+  ],
+  "author": "Kenny Valdivia",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/kvaldivia/SmqIonicNativeWrappers/issues"
+  },
+  "homepage": "https://github.com/kvaldivia/SmqIonicNativeWrappers#readme",
+  "devDependencies": {
+    "@angular/core": "^4.4.4",
+    "@ionic-native/core": "^4.3.0",
+    "rxjs": "^5.4.3"
+  }
+}
