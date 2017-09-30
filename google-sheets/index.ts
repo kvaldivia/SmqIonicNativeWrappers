@@ -66,4 +66,9 @@ export class GoogleSheets extends IonicNativePlugin {
     return;
   }
 
+  @Cordova()
+  public updateSpreadsheetValues(spreadsheetId: String, spreadsheetRange: String, updateValues: String) {
+    return;
+  }
+
 }
